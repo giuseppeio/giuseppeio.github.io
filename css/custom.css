@@ -68,7 +68,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #2e2e38;
-  background: #a2eeeb;
+  background: #515151;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -82,7 +82,7 @@ body {
 }
 
 .main {
-  background: #a2eeeb;
+  background: #515151;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
